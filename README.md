@@ -1,5 +1,4 @@
 ∙Currently undertaking the intensive Professional Software Development course at CodeClan.
 ∙Gaining experience in Python, Flask, JavaScript with React, and Java with Spring, along with HTML, CSS, SQL and MongoDB to build full stack applications using agile methodologies.
 ∙Applying solid syntactical skills from a strong academic background in linguistic syntaxes to software development.
-∙Experienced professional registered nurse with extensive skills in professional and client communication, professional practice, managing workloads and teams under pressure, and rapid critical assessment of situations.
-∙Enthusiastic and strong learner, adaptable to all situations and a team player that brings energy to any group.
+
