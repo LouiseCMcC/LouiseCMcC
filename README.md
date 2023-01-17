@@ -2,7 +2,7 @@
 
 ∙ Gained Professional Development Award (HNC level equivalent) in Computer Software Engineering.
 
-∙ Experience in using Python, Flask, SQL, JavaScript, React, React Native, Java, Spring, MongoDB, HTML and CSS to create applications following agile.
+∙ Experience in using Python, Flask, SQL, JavaScript, React, React Native, Java, Spring, MongoDB, HTML/CSS, and agile working.
 
 ∙ Applying solid syntactical skills from a strong academic background in linguistic syntaxes to software development.
 
